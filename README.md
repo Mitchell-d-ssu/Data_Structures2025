@@ -1,1 +1,1 @@
-# Data_Strcutures2025
+# Data_Structures2025
